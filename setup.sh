@@ -34,7 +34,7 @@ cd ..
 chmod +x build_and_run.sh
 
 echo 'From now on, all you have to do to compile, build, and run your project
-is to type "./build_and_run.sh" (without the quotes) and hit enter.
+is to run "./build_and_run.sh" (without the quotes) and hit enter.
 If you run into any issues and want to quit out of the program, press the ctrl and c key
 at the same time!'
 
