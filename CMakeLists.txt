@@ -9,4 +9,4 @@ find_package(cpr CONFIG REQUIRED)
 # adding all files
 add_executable(main main.cpp wikiscraper.cpp.o error.cpp)
 
-target_link_libraries(main PRIVATE cpr)
+target_link_libraries(main PRIVATE cpr::cpr)
